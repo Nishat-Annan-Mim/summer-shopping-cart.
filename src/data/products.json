@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings. These wrap-around shades block 100% of harmful UV rays and come with a scratch-resistant coating. Lightweight frame fits all face shapes.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Floral Maxi Dress",
+    "brand": "BeachVibes",
+    "price": 35,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Lightweight and breathable floral maxi dress ideal for beach walks and summer parties. Made from 100% cotton with a flowy silhouette and adjustable straps.",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "SPF 50 Sunscreen Lotion",
+    "brand": "GlowShield",
+    "price": 12,
+    "rating": 4.8,
+    "stock": 30,
+    "description": "Broad-spectrum SPF 50 sunscreen that protects against UVA and UVB rays. Water-resistant formula lasts up to 80 minutes. Non-greasy, dermatologist tested for all skin types.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Inflatable Beach Float",
+    "brand": "SplashZone",
+    "price": 22,
+    "rating": 4.3,
+    "stock": 20,
+    "description": "Giant inflatable flamingo beach float, perfect for pool parties and beach days. Durable vinyl material supports up to 200 lbs. Comes with a repair patch kit.",
+    "image": "https://images.unsplash.com/photo-1530053969600-caed2596d242?w=500",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Wide Brim Sun Hat",
+    "brand": "ShadeCo",
+    "price": 18,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Elegant wide brim straw hat with UPF 50+ protection. Adjustable inner band fits head sizes 54-60cm. Foldable design makes it easy to pack for travel.",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=500",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Cooling Beach Towel",
+    "brand": "ChillDry",
+    "price": 25,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Quick-dry microfiber beach towel with cooling technology. Extra large 70x140cm size, sand-free material that shakes clean instantly. Comes with a carrying bag.",
+    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=500",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 7,
+    "name": "Waterproof Sandals",
+    "brand": "TideWalker",
+    "price": 28,
+    "rating": 4.5,
+    "stock": 22,
+    "description": "Comfortable waterproof sandals with anti-slip sole, perfect for beach and water activities. Adjustable straps for custom fit. Available in sizes 6–12.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500",
+    "category": "Footwear"
+  },
+  {
+    "id": 8,
+    "name": "Portable Beach Umbrella",
+    "brand": "ShadeMaster",
+    "price": 40,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Lightweight 7ft beach umbrella with UV50+ protection. Wind-resistant design with tilt adjustment. Includes sand anchor and carry bag. Sets up in under 60 seconds.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+    "category": "Beach Accessories"
+  }
+]
