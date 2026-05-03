@@ -26,12 +26,12 @@ export default function ToasterProvider() {
       position="top-center"
       reverseOrder={false}
       toastOptions={{
-        duration: 800,
+        duration: 1000,
         success: {
-          duration: 800,
+          duration: 1000,
         },
         error: {
-          duration: 800,
+          duration: 1000,
         },
         style: {
           borderRadius: "12px",
